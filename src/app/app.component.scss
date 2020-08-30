@@ -12,3 +12,19 @@
     text-align: center;
     align-content: center;
 }
+
+.card:hover{
+    opacity: 0.9;
+}
+
+.single-profile{
+
+    text-align: center;
+
+    .card-img-top-profile{
+        max-width: 10em;
+        border-radius: 50em;
+        align-self: center;
+        padding-top: 2%;
+    }
+}
