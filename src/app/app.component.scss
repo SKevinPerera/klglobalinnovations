@@ -4,6 +4,7 @@
     background-color: rgb(255, 255, 255);
     padding-top: 5%;
     padding-bottom: 5%;
+    opacity: 0.9;
 }
 
 // @media only screen and (max-width: 400px) {
@@ -11,6 +12,26 @@
 //         background-color: rgb(177, 42, 42);
 //     }
 //   }
+
+.company-info-content01{
+    padding-top: 5em; 
+    padding-bottom: 15em; 
+    padding-left: 5em; 
+    padding-right: 5em;
+    font-size: 18px;
+    background: black;
+    opacity: 0.8;
+
+    .container{
+        display: flex; 
+        font-size: 20px; 
+        margin-bottom: 5%; 
+    }
+
+    #company-info-content01-btn{
+        margin-top: 5vh;
+    }
+}
 
 .head-main-heading{
     display: flex;
