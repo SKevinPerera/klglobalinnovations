@@ -6,6 +6,13 @@
     opacity: 0.9;
 }
 
+@media screen and (max-width: 1100px) {
+    #logo-image{
+        background-color: rgb(228, 24, 24);
+        height: 50vh;
+    }
+}
+
 // @media only screen and (max-width: 400px) {
 //     #logo-image{
 //         background-color: rgb(177, 42, 42);
