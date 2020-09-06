@@ -6,12 +6,7 @@
     opacity: 0.9;
 }
 
-@media screen and (max-width: 1100px) {
-    #logo-image{
-        background-color: rgb(228, 24, 24);
-        height: 50vh;
-    }
-}
+
 
 // @media only screen and (max-width: 400px) {
 //     #logo-image{
@@ -35,6 +30,18 @@
 
     #company-info-content01-btn{
         margin-top: 5vh;
+    }
+}
+
+@media screen and (max-width: 1100px) {
+    #logo-image{
+        padding-top: 50%;
+        height: 100vh;
+    }
+
+    .company-info-content01{
+        height: 100vh;
+        padding-top: 20%; 
     }
 }
 
