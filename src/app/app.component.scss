@@ -1,26 +1,17 @@
 #logo-image{
     text-align: center;
     //margin-top: 10vh;
-    background-color: rgb(0, 0, 0);
-    //height: 100vh;
+    background-color: rgb(255, 255, 255);
+    height: 100vh;
     opacity: 0.9;
 }
 
 #myVideo {
-    width: 100%;
+    position: fixed;
     right: 0;
     bottom: 0;
     min-width: 100%;
     min-height: 100%;
-  }
-
-.content {
-    //position: fixed;
-    bottom: 0;
-    background: rgba(0, 0, 0, 0.5);
-    color: #f1f1f1;
-    width: 100%;
-    padding: 20px;
   }
 
 
