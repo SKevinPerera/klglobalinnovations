@@ -1,7 +1,11 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:400,500,700,900&display=swap");
+
+
 /* You can add global styles to this file, and also import other style files */
 body {
     background-image: url("./assets/background1.jpeg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
+    font-family: "Roboto", sans-serif;
    }
